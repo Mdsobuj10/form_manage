@@ -1,0 +1,16 @@
+:root{
+    --secondery--color:rgb(241, 104, 104);
+    --font--size: 3em;
+    --color-base-00:red;
+     --color:red:
+
+    
+}
+
+.container{
+    width: 500px;
+    margin: auto;
+}
+.ard-body{
+    background-color: rgb(63, 130, 189);
+}
